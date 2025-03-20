@@ -1,0 +1,112 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Bolo de Cenoura",
+      "ingredientes": [
+        "cenoura",
+        "farinha",
+        "açúcar",
+        "ovo",
+        "óleo"
+      ],
+      "instrucoes": "Misture tudo e asse por 40 minutos a 180°C."
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão Carbonara",
+      "ingredientes": [
+        "macarrão",
+        "bacon",
+        "ovo",
+        "queijo parmesão",
+        "pimenta do reino"
+      ],
+      "instrucoes": "Cozinhe o macarrão, frite o bacon, misture com ovo e queijo."
+    },
+    {
+      "id": 3,
+      "titulo": "Panqueca Americana",
+      "ingredientes": [
+        "farinha",
+        "leite",
+        "ovo",
+        "manteiga",
+        "fermento",
+        "açúcar"
+      ],
+      "instrucoes": "Misture os ingredientes e frite pequenas porções em uma frigideira quente."
+    },
+    {
+      "id": 4,
+      "titulo": "Salada Grega",
+      "ingredientes": [
+        "pepino",
+        "tomate",
+        "cebola",
+        "azeitonas",
+        "queijo feta",
+        "azeite",
+        "orégano"
+      ],
+      "instrucoes": "Misture todos os ingredientes em uma tigela e tempere com azeite e orégano."
+    },
+    {
+      "id": 5,
+      "titulo": "Lasanha de Berinjela",
+      "ingredientes": [
+        "berinjela",
+        "molho de tomate",
+        "queijo mussarela",
+        "carne moída",
+        "massa de lasanha"
+      ],
+      "instrucoes": "Intercale camadas de berinjela, molho, carne e queijo. Asse por 45 minutos a 180°C."
+    },
+    {
+      "id": 6,
+      "titulo": "Risoto de Cogumelos",
+      "ingredientes": [
+        "arroz arbóreo",
+        "cogumelos",
+        "caldo de legumes",
+        "cebola",
+        "alho",
+        "manteiga",
+        "queijo parmesão"
+      ],
+      "instrucoes": "Refogue a cebola e o alho, adicione os cogumelos e o arroz, cozinhe com caldo de legumes, finalize com manteiga e parmesão."
+    },
+    {
+      "id": 7,
+      "titulo": "Torta de Maçã",
+      "ingredientes": [
+        "maçã",
+        "farinha",
+        "manteiga",
+        "açúcar",
+        "canela",
+        "ovo"
+      ],
+      "instrucoes": "Prepare a massa, recheie com maçãs temperadas com açúcar e canela, asse até dourar."
+    },
+    {
+      "titulo": "Carne a rolê",
+      "ingredientes": "Bife de coxão mole",
+      "preparo": "Enrole os rolinhos com cenoura, vagem e mussarela, asse na air fryer",
+      "id": 8
+    },
+    {
+      "titulo": "Yakisoba",
+      "ingredientes": "Macarrão de Yakisoba, soyo, cenoura, vagem, brócolis, couve flor, frango e carne em cubinhos",
+      "preparo": "Cozinhe o macarrão e adicione todos os ingredientes...",
+      "id": 9
+    },
+    {
+      "titulo": "Chuchu com ovos",
+      "ingredientes": "Chuchu, ovos e temperos",
+      "preparo": "Cozinhe o chuchu até ficar macio, misture com ovos já cozidos e cortados, tempere a gosto.",
+      "id": 10
+    }
+  ]
+}
